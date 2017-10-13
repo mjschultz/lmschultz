@@ -1,1 +1,29 @@
-theme: jekyll-theme-merlot
+# Site settings
+title: Lyndsie Marie Schultz's CV
+description: lmschultz's CV
+favicon: /assets/img/avatar.JPG
+baseurl: http://lmschultz.com
+url: https://lmschultz.com
+rss_url: /pages/atom.xml
+
+# Build settings
+markdown: kramdown
+
+exclude: [vendor]
+
+# Author settings
+author:
+  name: Lyndsie Marie Schultz
+  title: Educator
+  address: Saint Louis, Missouri
+  email: lyndsie.schultz@gmail.com
+  link: http://lmschultz.com
+  educationHistory:
+    - education1:
+      organization: Washington University in Saint Louis
+      location: Saint Louis, Missouri
+      degree: Ph.D.
+      major: Education
+      started: 2011
+      duration: (2011 - present)
+      description: Doing things.
