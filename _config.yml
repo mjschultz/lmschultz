@@ -95,6 +95,8 @@ author:
     - name: Teaching
       percentage: 100%
     - name: Geographic Information Systems
+      percentage: 85%
+    - name: Statistical Analysis
       percentage: 75%
   languages:
     - name: English
