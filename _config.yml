@@ -70,9 +70,9 @@ author:
       duration: 2007 - 2009
       location: Batavia, Illinois
       description: |
-          * Documented and maintained listing of all customer service and product complaints.
-          * Negotiated contracts, pricing and placement of orders for office equipment, supplies, and company vehicles.
-          * Coordinated hirings for administrative and warehouse departments.
+          <li>Documented and maintained listing of all customer service and product complaints.
+          <li>Negotiated contracts, pricing and placement of orders for office equipment, supplies, and company vehicles.
+          <li>Coordinated hirings for administrative and warehouse departments.
     - work_tfa:
       started: 2007
       company: Teach for America
@@ -80,3 +80,17 @@ author:
       duration: 2007 - 2007
       location: 
       description: 6th grade math teacher for a Summer School program serving students in Watts, CA, through the Los Angeles Unified School District.
+  skills:
+    - name: Research
+      percentage: 100%
+    - name: Teaching
+      percentage: 100%
+    - name: Geographic Information Systems
+      percentage: 75%
+  languages:
+    - name: English
+      proficiency: Native
+    - name: Spanish
+      proficiency: Limited
+    - name: Italian
+      proficiency: Google Translate
