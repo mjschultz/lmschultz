@@ -1,9 +1,10 @@
 # Site settings
-title: Lyndsie Marie Schultz's CV
+title: Lyndsie Marie Schultz
 description: lmschultz's CV
 favicon: /assets/img/avatar.JPG
 baseurl: http://lmschultz.com
 url: https://lmschultz.com
+
 rss_url: /pages/atom.xml
 
 # Build settings
@@ -18,6 +19,7 @@ author:
   address: Saint Louis, Missouri
   email: lyndsie.schultz@gmail.com
   link: http://lmschultz.com
+  linkedin: lyndsie-schultz-95752a7
   educationHistory:
     - education1:
       organization: Washington University in Saint Louis
@@ -26,4 +28,55 @@ author:
       major: Education
       started: 2011
       duration: (2011 - present)
-      description: Doing things.
+      description: Learning and Researching.
+    - education2:
+      organization: Washington University in Saint Louis
+      location: Saint Louis, Missouri
+      degree: Master of Arts
+      major: Elementary Education, Technology and New Media
+      started: 2009
+      duration: 2009 - 2010
+      description: Learning and Teaching.
+    - education3:
+      organization: Marquette University
+      location: Milwaukee, Wisconsin
+      degree: Honors Bachelor of Arts
+      major: Broadcast & Electronic Communications
+      started: 2003
+      duration: 2003 - 2007
+      description: Learning and MUTV.
+  workHistory:
+    - work_grad:
+      started: 2011
+      company: Washington University in Saint Louis
+      title: Graduate Assistant
+      duration: 2011 - present
+      location: Saint Louis, Missouri
+      description: Urban Education and Culture Studies--specifically, literacy for English Language Learners, and media literacy within the urban early childhood classroom.
+    - work_comm:
+      started: 2010
+      company: Community School
+      title: Substitute Teacher
+      duration: 2010 - 2015
+      location: Saint Louis, Missouri
+      description: |
+          * Assisted students in all grade levels with individualized work
+          * Directed students in small and large group instruction
+          * Implemented lessons as designed by teachers
+    - work_aldi:
+      started: 2007
+      company: ALDI Inc.
+      title: Administrative and Warehousing Assistant
+      duration: 2007 - 2009
+      location: Batavia, Illinois
+      description: |
+          * Documented and maintained listing of all customer service and product complaints.
+          * Negotiated contracts, pricing and placement of orders for office equipment, supplies, and company vehicles.
+          * Coordinated hirings for administrative and warehouse departments.
+    - work_tfa:
+      started: 2007
+      company: Teach for America
+      title: Corps Member
+      duration: 2007 - 2007
+      location: 
+      description: 6th grade math teacher for a Summer School program serving students in Watts, CA, through the Los Angeles Unified School District.
