@@ -16,7 +16,7 @@ datasets:
   - name: Dissertation Data
     released: 2017
     description: This is all the data from my dissertation
-    link: /data/dissertation-data.zip
+    link: /data/STLReplication.dta
     papers:
       - title: Ph.D. Dissertation
         link: /papers/dissertation.pdf
